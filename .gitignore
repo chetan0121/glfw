@@ -1,8 +1,5 @@
 # CMake build directory
 /build/
-/CMakeFiles/
-/CMakeCache.txt
-/*.cmake
 
 # Generated binaries
 *.exe
